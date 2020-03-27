@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1584284271 source:e:\7amo eng\embedded systems - amit\lab2\bubblesort.c
+	<stdio.h>
+	"swap.h"
+
+1582964487 e:\7amo eng\embedded systems - amit\lab2\swap.h
+
+1583499055 source:e:\7amo eng\embedded systems - amit\lab2\calc.c
+	<stdio.h>
+
+1583237686 source:e:\7amo eng\embedded systems - amit\lab2\cap.c
+
+1583238120 source:e:\7amo eng\embedded systems - amit\lab2\cap1st.c
+
+1583240755 source:e:\7amo eng\embedded systems - amit\lab2\dupcheck.c
+	<stdbool.h>
+
+1583239085 source:e:\7amo eng\embedded systems - amit\lab2\fibo.c
+
+1584282043 source:e:\7amo eng\embedded systems - amit\lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"calc.h"
+	"swap.h"
+	"maxofarr.h"
+	"maxzero.h"
+	"swp_arr.h"
+	"cap.h"
+	"cap1st.h"
+	"dupcheck.h"
+	"swap.h"
+	"bubblesort.h"
+	"selectsort.h"
+	"arrprint.h"
+	"swapbitwise.h"
+	"stack.h"
+	"draw.h"
+	<string.h>
+	"rotatebinary.h"
+
+1583569525 e:\7amo eng\embedded systems - amit\lab2\calc.h
+
+1583328743 e:\7amo eng\embedded systems - amit\lab2\maxofarr.h
+
+1582979304 e:\7amo eng\embedded systems - amit\lab2\maxzero.h
+
+1583003893 e:\7amo eng\embedded systems - amit\lab2\swp_arr.h
+
+1583236244 e:\7amo eng\embedded systems - amit\lab2\cap.h
+
+1583238032 e:\7amo eng\embedded systems - amit\lab2\cap1st.h
+
+1583240581 e:\7amo eng\embedded systems - amit\lab2\dupcheck.h
+
+1583329851 e:\7amo eng\embedded systems - amit\lab2\bubblesort.h
+
+1583410097 source:e:\7amo eng\embedded systems - amit\lab2\maxofarr.c
+
+1583001067 source:e:\7amo eng\embedded systems - amit\lab2\maxzero.c
+
+1583408435 source:e:\7amo eng\embedded systems - amit\lab2\swap.c
+
+1583004217 source:e:\7amo eng\embedded systems - amit\lab2\swap_arr.c
+
+1584173358 e:\7amo eng\embedded systems - amit\lab2\selectsort.h
+
+1584173365 source:e:\7amo eng\embedded systems - amit\lab2\selectsort.c
+	<stdio.h>
+	"maxofarr.h"
+	"swap.h"
+
+1583427188 source:e:\7amo eng\embedded systems - amit\lab2\arrscan.c
+	<stdio.h>
+
+1583572113 e:\7amo eng\embedded systems - amit\lab2\arrscan.h
+
+1584173326 source:e:\7amo eng\embedded systems - amit\lab2\arrprint.c
+	<stdio.h>
+
+1584173317 e:\7amo eng\embedded systems - amit\lab2\arrprint.h
+
+1583428804 source:e:\7amo eng\embedded systems - amit\lab2\swapbitwise.c
+
+1583428772 e:\7amo eng\embedded systems - amit\lab2\swapbitwise.h
+
+1583573566 source:e:\7amo eng\embedded systems - amit\lab2\stack.c
+	<stdio.h>
+
+1583573895 e:\7amo eng\embedded systems - amit\lab2\stack.h
+
+1583584625 source:e:\7amo eng\embedded systems - amit\lab2\draw.c
+	<stdio.h>
+
+1583581151 e:\7amo eng\embedded systems - amit\lab2\draw.h
+
+1584276874 source:e:\7amo eng\embedded systems - amit\lab2\rotatebinary.c
+	"rotatebinary.h"
+
+1584276874 e:\7amo eng\embedded systems - amit\lab2\rotatebinary.h
+
+1584284252 source:e:\7amo eng\embedded systems - amit\lab2\mergesort.c
+	"swap.h"
+

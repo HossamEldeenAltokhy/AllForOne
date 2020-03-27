@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Lab2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Lab2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Lab2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="arrprint.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arrprint.h" />
+		<Unit filename="bubblesort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bubblesort.h" />
+		<Unit filename="calc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="calc.h" />
+		<Unit filename="cap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cap.h" />
+		<Unit filename="cap1st.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cap1st.h" />
+		<Unit filename="dupcheck.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dupcheck.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="maxofarr.c">
+			<Option compilerVar="CC" />
+			<Option weight="30" />
+		</Unit>
+		<Unit filename="maxofarr.h" />
+		<Unit filename="maxzero.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="maxzero.h" />
+		<Unit filename="mergesort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mergesort.h" />
+		<Unit filename="rotatebinary.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rotatebinary.h" />
+		<Unit filename="selectsort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="selectsort.h" />
+		<Unit filename="swap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="swap.h" />
+		<Unit filename="swap_arr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="swp_arr.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
